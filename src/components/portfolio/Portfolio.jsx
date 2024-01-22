@@ -37,7 +37,7 @@ const Portfolio = () => {
       img: IMG4,
       description: "Real-world group project which is still in progress and will provide educational platform for future young developers.",
       technologies: "React | Bootstrap",
-      github: "",
+      github: "https://github.com/R-A-G-UL/Portfolio.git",
     },
     // {
     //   id: 4,
